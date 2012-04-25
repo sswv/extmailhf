@@ -1,0 +1,8 @@
+Program: ExtmailHeaderFixer - Plugin for Claws Mail
+Author:  Jian Lin <lj [at] linjian.org>
+License: GPL (See file COPYING)
+Depends: Claws Mail
+
+This plugin modifies the messages from Extmail whose header violating RFC 2046.
+See http://blog.linjian.org/articles/extmail-multipart-bug/ for details.
+
