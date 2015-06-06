@@ -4,5 +4,5 @@ License: GPL (See file COPYING)
 Depends: Claws Mail
 
 This plugin modifies the messages from Extmail whose header violating RFC 2046.
-See http://blog.linjian.org/articles/extmail-multipart-bug/ for details.
+See http://blog.linjian.org/publication/floss-dir/others/extmailhf-for-clawsmail for details.
 

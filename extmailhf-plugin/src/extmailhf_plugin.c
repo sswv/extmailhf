@@ -105,7 +105,7 @@ const gchar *plugin_name(void)
 const gchar *plugin_desc(void)
 {
 	return _("This plugin modifies the messages from Extmail whose header violating RFC 2046. "
-		"See http://blog.linjian.org/articles/extmail-multipart-bug/ for details.\n");
+		"See http://blog.linjian.org/publication/floss-dir/others/extmailhf-for-clawsmail for details.\n");
 }
 
 const gchar *plugin_type(void)
